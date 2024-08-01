@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="700" height="300"/>
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="800" height="400"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4kesh&label=Profile%20views&color=0e75b6&style=flat" alt="r4kesh" /> </p>
