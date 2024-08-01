@@ -4,10 +4,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="800" height="350"/>
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="800" height="300"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r4kesh&label=Profile%20views&color=0e75b6&style=flat" alt="r4kesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r4kesh&label=Profile%20views&color=0e75b6&style=flat" alt="rahithkr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4kesh" alt="r4kesh" /></a> </p>
 
