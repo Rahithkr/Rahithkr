@@ -7,9 +7,17 @@
   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="800" height="300"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r4kesh&label=Profile%20views&color=0e75b6&style=flat" alt="rahithkr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahithkr&label=Profile%20views&color=0e75b6&style=flat" alt="rahithkr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4kesh" alt="r4kesh" /></a> </p>
+- 🔭 I’m currently working on *CodeBlue  an emergency service web application*
+
+- 🌱 I’m exploring latest *technologies* and forward  to contribute my skills.
+
+  - 💬 Ask me about *react, nodejs, mongodb,javascript,typescript,nextjs*
+
+- 📫 How to reach me *rahithkr69@gmail.com*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -91,4 +99,4 @@
   
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4kesh&show_icons=true&locale=en&layout=compact" alt="r4kesh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahithkr&show_icons=true&locale=en&layout=compact" alt="rahithkr" /></p>
